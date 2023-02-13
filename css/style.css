@@ -62,6 +62,26 @@ main img{
 
 ul{
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 /*/paragrafi, lista e immagini*/
+
+
+
+/*tabella*/
+
+th{
+  color: white;
+  background-color: deepskyblue;
+  text-align: center;
+}
+
+tr{
+  text-align: left;
+}
+
+.color-tabel{
+  background-color: cyan;
+}
+/*/tabella*/
