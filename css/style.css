@@ -6,43 +6,59 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+
 /*stili all'header*/
+
+
 
 header {
   background-image: url('../img/pattern.png');
-  background-color: cornflowerblue;
+  background-color: #4EA0FF;
   height: 175px;
 }
+
 
 
 
 header img {
   height: 50px;
   padding-top: 100px;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 
 
 header p  {
   color: gray;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 
 
 h1{
   padding-top: 40px;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 
 
 a{
   text-decoration: none;
-  color: lightskyblue;
+  color: #54A3FF;
 }
 /*/stili all'header*/
 
 
 /*paragrafi, lista e immagini*/
+
+main{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
 
 main img{
   padding-top: 100px;
@@ -79,7 +95,7 @@ table{
 
 th{
   color: white;
-  background-color: deepskyblue;
+  background-color: #23A9E5;
   text-align: center;
 }
 
@@ -88,13 +104,17 @@ tr{
 }
 
 .color-tabel{
-  background-color: cyan;
+  background-color: #B1E5F2;
 }
 /*/tabella*/
 
 
 
 /*immagini finali con titolo*/
+
+footer{padding-left: 300px;
+  padding-right: 300px;
+}
 
 h3{
   color: gray;
