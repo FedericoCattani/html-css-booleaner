@@ -1,0 +1,41 @@
+
+/*css reset*/
+
+*{
+  margin: 0;
+}
+
+/*stili all'header*/
+
+header {
+  background-image: url('../img/pattern.png');
+  background-color: cornflowerblue;
+  height: 175px;
+}
+
+
+
+header img {
+  height: 50px;
+  padding-top: 100px;
+}
+
+
+
+p  {
+  color: gray;
+}
+
+
+
+h1{
+  padding-top: 20px;
+}
+
+
+
+a{
+  text-decoration: none;
+  color: lightskyblue;
+}
+/*/stili all'header*/
