@@ -22,14 +22,14 @@ header img {
 
 
 
-p  {
+header p  {
   color: gray;
 }
 
 
 
 h1{
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 
@@ -39,3 +39,29 @@ a{
   color: lightskyblue;
 }
 /*/stili all'header*/
+
+
+/*paragrafi, lista e immagini*/
+
+main img{
+  padding-top: 100px;
+}
+
+
+
+#evidenziato{
+  background:#FFFF00;
+}
+
+
+
+.paragrafo{
+  padding-top: 10px;
+}
+
+
+ul{
+  padding-top: 10px;
+}
+
+/*/paragrafi, lista e immagini*/
